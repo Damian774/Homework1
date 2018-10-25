@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Kalkulator</string>
+    <string name="button_plus_label">+</string>
+    <string name="button_minus_label">-</string>
+    <string name="button_multiplication_label">*</string>
+    <string name="button_division_label">/</string>
+</resources>
